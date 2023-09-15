@@ -6,7 +6,7 @@ require("config.lazy")({
     -- cond = false,
   },
   nv = {
-    colorscheme = "gruvbox", -- colorscheme setting for either onedark.nvim or github-theme
+    colorscheme = "slate", -- colorscheme setting for either onedark.nvim or github-theme
     codeium_support = false, -- enable codeium extension
     copilot_support = false, -- enable copilot extension
     coverage_support = true, -- enable coverage extension
